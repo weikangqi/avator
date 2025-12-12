@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://your-username.github.io/avatar-generator",
+  "homepage": "https://weikangqi.github.io/avator",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

@@ -50,7 +50,7 @@ npm run preview
 
 ## 🌐 在线演示
 
-访问 [GitHub Pages](https://your-username.github.io/avatar-generator) 查看在线演示
+访问 [GitHub Pages](https://weikangqi.github.io/avator) 查看在线演示
 
 ## 🚀 部署
 
